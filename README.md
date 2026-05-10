@@ -17,5 +17,8 @@ This repository demonstrates the end-to-end deployment of an E-Commerce Applicat
 - Static code analysis and quality checks with SonarQube
 - Deployment to AWS EKS (Elastic Kubernetes Service)
 - Application exposure using Kubernetes LoadBalancer Service
+
+## 🏗️ Architecture Diagram
+<img width="1825" height="862" alt="5061066f-3840-4aee-9e65-e2fbe8a610ed" src="https://github.com/user-attachments/assets/76d12eee-be1f-49ef-88c9-545daf893e57" />
   
 ### Deployed by: Vamsee
