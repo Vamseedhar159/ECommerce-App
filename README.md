@@ -19,6 +19,7 @@ This repository demonstrates the end-to-end deployment of an E-Commerce Applicat
 - Application exposure using Kubernetes LoadBalancer Service
 
 ## 🏗️ Architecture Diagram
-<img width="1825" height="862" alt="5061066f-3840-4aee-9e65-e2fbe8a610ed" src="https://github.com/user-attachments/assets/76d12eee-be1f-49ef-88c9-545daf893e57" />
+<img width="1801" height="873" alt="e96116c5-c05b-496c-b2f3-66257bbb3f5c" src="https://github.com/user-attachments/assets/39f3859c-e8ab-4ba6-b2cd-4cc936e67d9a" />
+
   
 ### Deployed by: Vamsee
